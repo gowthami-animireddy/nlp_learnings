@@ -1,7 +1,7 @@
-# import string
-# test="hello!!!!How are You???"
-# cleaned=''.join(c for c in test if c not in string.punctuation)
-# print(cleaned)
+import string
+test="hello!!!!How are You???"
+cleaned=''.join(c for c in test if c not in string.punctuation)
+print(cleaned)
 
 
 import re

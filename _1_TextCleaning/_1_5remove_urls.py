@@ -9,3 +9,5 @@ print(cleaned)
 text=" visit https://google.com for more info"
 cleaned=re.sub(r'https\S+','',text)
 print(cleaned)
+
+

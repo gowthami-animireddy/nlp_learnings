@@ -1,10 +1,10 @@
 # method 1
 # using re
 
-# import re
-# text="<p> this is a paragraph <p>"
-# cleaned=re.sub(r'<.*?>','',text)
-# print(cleaned)
+import re
+text="<p> this is a paragraph <p>"
+cleaned=re.sub(r'<.*?>','',text)
+print(cleaned)
 
 
 #method 2
