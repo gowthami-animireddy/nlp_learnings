@@ -1,6 +1,6 @@
-# test="I love NLP"
-# CLEANED=test.lower()
-# print(CLEANED   )
+test="I love NLP"
+CLEANED=test.lower()
+print(CLEANED)
 
 
 text="Machine Learning IS FUN"

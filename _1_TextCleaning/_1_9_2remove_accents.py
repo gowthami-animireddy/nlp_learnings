@@ -15,7 +15,11 @@ print(cleaned)
 
 # pip install unidecode
 
+
 from unidecode import unidecode
 text='élève déjà vu '
 cleaned=unidecode(text)
 print(cleaned)
+
+# o/p
+# eleve deja vu 
